@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Romell Mertis! <br/><a href="https://github.com/Romell2018">Programmer</a></h1>
 
-<!--
-**romell2018/romell2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>FIRST ROBOTICS STEAMWORKS 2017)</b>
+  - [Robot code in C++](https://github.com/NerdsOfPrey/Steamworks-Robot)
+- <b>FIRST ROBOTICS POWER UP 2018</b>
+  - [Robot code in Java](https://github.com/romell2018/FinalPowerUpCode) 
+- <b>FIRST ROBOTICS DEEPSPACE 2019</b>
+  - [Robot code in C++](https://github.com/romell2018/NerdsofPrey_DeepSpace)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>FIRST ROBOTICS INFINITE RECHARGE 2020</b>
+  - [Robot code in C++](https://github.com/Team4065/Robot2020/tree/master)
+ 
+- <b>VEX ROBOTICS 2019</b>
+  - [Robot code in C](https://github.com/romell2018/VexTurningPoint2018Code)
+    
+- <b>Ramsete Autononous Trajectory Path-Following</b>
+  - [Robot code in C++](https://github.com/Team4065/Robot2020/tree/RomellsCode)
